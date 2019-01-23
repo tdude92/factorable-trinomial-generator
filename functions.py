@@ -155,7 +155,7 @@ def getFactorPairs(n):
             factorPairs = posFactorPairs1
 
     return factorPairs
-# Gets the factor pairs of n; Order matters.
+# Gets the factor pairs of n.
 
 
 def factorTricky(coeffsList):
